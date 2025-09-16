@@ -1,0 +1,7 @@
+build/
+.vscode/
+.venv/
+*.exe
+*.out
+*.obj
+.DS_Store
