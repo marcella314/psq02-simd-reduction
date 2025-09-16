@@ -10,8 +10,8 @@ Objetivo: comparar desempenho e observar ganhos de paralelismo em nível de dado
 
 ## 👨‍💻 Autores
 
-- **Marcella Figueredo 
-- **Mateus Soares
+- **Marcella Figueredo** 
+- **Mateus Soares**
 
 Disciplina: Arquitetura e Organização de Computadores 2
 Trabalho: Paralelize-me se for Capaz: Desvendando SIMD e CUDA
