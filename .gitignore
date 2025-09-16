@@ -3,5 +3,6 @@ build/
 .venv/
 *.exe
 *.out
+*.o
 *.obj
 .DS_Store
