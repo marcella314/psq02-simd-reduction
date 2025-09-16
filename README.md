@@ -49,5 +49,5 @@ N,sum_scalar(ms),sum_cuda(ms),speedup_sum,max_scalar(ms),max_cuda(ms),speedup_ma
 - **Marcella Figueredo** 
 - **Mateus Soares**
 
-Disciplina: Arquitetura e Organização de Computadores 2
-Trabalho: Paralelize-me se for Capaz: Desvendando SIMD e CUDA
+-Disciplina: Arquitetura e Organização de Computadores 2
+-Trabalho: Paralelize-me se for Capaz: Desvendando SIMD e CUDA
