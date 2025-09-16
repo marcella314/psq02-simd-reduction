@@ -1,12 +1,12 @@
-# psq02-simd-reduction (AVX2)
+# PSQ02 — Paralelize-me se for Capaz: Desvendando SIMD e CUDA
 
 ## 📌 Descrição
-Implementação do **problema clássico de Redução** (soma e máximo de elementos em um vetor) usando:
-- **Versão escalar (baseline)**
-- **Versão SIMD com intrínsecas AVX2**
+Este repositório contém a implementação do problema clássico de **redução de vetor** (soma e máximo) em duas arquiteturas diferentes:
 
-Objetivo: comparar desempenho e observar os ganhos de paralelismo em nível de dados.
+- **CPU (SIMD – AVX2)**: usando intrínsecas Intel em C++  
+- **GPU (CUDA)**: usando kernels CUDA em C++/CUDA
 
----
+Objetivo: comparar desempenho e observar ganhos de paralelismo em nível de dados.
+
 
 
